@@ -1,6 +1,6 @@
 {
   "navigation": {
-    "home": "HOE",
+    "home": "HOME",
     "about": "ABOUT",
     "portfolio": "PORTFOLIO",
     "gallery": "GALLERY",
@@ -11,12 +11,12 @@
   "home": {
     "title": "HOME",
     "description": "My awesome web app.",
-    "app_name": "YOUR NAME",
-    "app_title": "PHOTOGRAPHY FROM MAKASSAR, INDONESIA.",
+    "app_name": "AMRULLAH",
+    "app_title": "I'M FROM MAKASSAR, INDONESIA.",
     "bg_url": "https://images.pexels.com/photos/2409681/pexels-photo-2409681.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000",
     "socials": [{
         "label": "INSTAGRAM",
-        "url": "#"
+        "url": "https://www.instagram.com/amr.sajak/"
       },
       {
         "label": "FACEBOOK",
@@ -24,7 +24,7 @@
       },
       {
         "label": "GITHUB",
-        "url": "#"
+        "url": "https://github.com/amrsajak"
       }
     ]
   },
@@ -32,8 +32,8 @@
     "label": "About.",
     "title": "ABOUT",
     "description": "no comment",
-    "name": "I’m Dede Ardiansya",
-    "paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa\n    quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Neque porro quisquam est, qui dolorem\n    ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore\n    magnam aliquam quaerat voluptatem.",
+    "name": "I’m Amrullah Sajak",
+    "paragraph": "My name is Amrullah Sajak. I am the youngest of five siblings. I spent my childhood in the Enrekang Outback with my family. After entering elementary school, I lived with my parents and attended SD Negeri 67 Dulang, SMP Negeri 1 Baraka to SMA Negeri 5 Enrekang. I continued my higher education at Makassar Dipa University by taking the Informatics Engineering study program",
     "img_url": "https://images.pexels.com/photos/1342650/pexels-photo-1342650.jpeg?auto=compress&cs=tinysrgb&h=500",
     "cv_url": "#",
     "experience": {
